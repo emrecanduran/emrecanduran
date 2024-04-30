@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Emrecan
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I'm currently doing my master's degree in Data Science. I really enjoy learning about Machine Learning and how it's used in different areas.
 
 Skills: Python/ MySQL / SAS / DataBricks / Azure Web App

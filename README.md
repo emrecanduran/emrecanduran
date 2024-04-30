@@ -6,7 +6,7 @@ The tools I'm using:
 - MySQL 🗄️:  Data retrieval, and manipulation.
 - Databricks 💻: Skilled in utilizing Databricks for big data analytics and machine learning applications.
 - SAS 📊: Familiar with SAS for statistical analysis, data management, reporting purposes and modeling.
-- Azure Web App ☁️: Trying to gain hands-on experience by deploying machine learning models as web applications on the Azure platform.
+- Azure Web App ☁️: Gaining hands-on experience by deploying machine learning models as web applications on the Azure platform.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/emrecanduran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/emrecanduran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/eemrecanduran/)  

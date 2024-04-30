@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Emrecan
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Emrecan, and I'm doing my master's degree in Data Science. I'm really enjoy learning about Machine Learning and how it's used in different areas.
+I'm currently doing my master's degree in Data Science. I really enjoy learning about Machine Learning and how it's used in different areas.
 
-<!--
-**emrecanduran/emrecanduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python/ MySQL / SAS / DataBricks / Azure Web App
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning cloud services 
 
-- 🔭 I’m currently doing my master's degree in Data Science. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrecanduran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emrecanduran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eemrecanduran/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanduran)](https://github.com/anuraghazra/github-readme-stats)
+

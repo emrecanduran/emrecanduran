@@ -8,7 +8,7 @@ The tools I'm using:
 - SAS 📊: Familiar with SAS for statistical analysis, data management, reporting purposes and modeling.
 - Azure Web App ☁️: Trying to gain hands-on experience by deploying machine learning models as web applications on the Azure platform.
 
-- 🌱 I’m currently learning cloud services 
+🌱 I’m currently learning cloud services 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrecanduran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emrecanduran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eemrecanduran/)  

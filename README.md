@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Emrecan 
 I'm currently doing my master's degree in Data Science. I really enjoy learning about Machine Learning and how it's used in different areas.
 
-Skills: Python/ MySQL / SAS / DataBricks / Azure Web App
+Skills: 
+- 🐍 Python 
+MySQL / SAS / DataBricks / Azure Web App
 
 - 🌱 I’m currently learning cloud services 
 

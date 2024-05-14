@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Emrecan 
-I'm currently doing my master's degree in Data Science. I really enjoy learning about Machine Learning and how it's used in different areas. Even though I do not have professional experience yet, I continue to be eager to learn and discover the unlimited applications of data science.
+I'm currently doing my master's degree in Data Science. I really enjoy learning about Machine Learning and how it's used in different areas. Even though I do not have professional experience yet, I continue to learn and discover the unlimited applications of data science.
 
 The tools I use: 
 - Python 🐍: Data analysis, manipulation, visualization and modeling. 
